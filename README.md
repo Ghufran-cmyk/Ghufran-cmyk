@@ -1,4 +1,4 @@
-<h1><code>~ about me</code></h1>
+<pre>~ about me</pre>
 
 <pre>
 Ghufran Fadlurrahman
