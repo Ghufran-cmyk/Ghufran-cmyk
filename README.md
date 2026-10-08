@@ -20,8 +20,10 @@ Information Systems · Student · Designer
 
 <br>
 
-![Instagram](https://img.shields.io/badge/@ghufran-333333?style=flat-square&logo=instagram&logoColor=white)
-![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)
+[![Email](https://img.shields.io/badge/ghufranfadlur%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:ghufranfadlur@gmail.com)
+[![HackerRank](https://img.shields.io/badge/fadlurrahman0712-333333?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/fadlurrahman0712)
+[![Instagram](https://img.shields.io/badge/@gfranfdlur_-333333?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gfranfdlur_)
+[![Discord](https://img.shields.io/badge/franxyyy0-333333?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/franxyyy0)
 
 ---
 
